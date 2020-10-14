@@ -2,7 +2,7 @@
 
 Description: 
 Amazon clone created in React. 
-Primary purpose of this project is for me to practice skills & learn React/JS. 
+Primary purpose of this project is for me to practice skills in React/JS. 
 
 This app utilizes React Router, React.js frontend, Firebase and Context API.
 
