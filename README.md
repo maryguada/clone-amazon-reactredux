@@ -1,3 +1,23 @@
+## Amazon Clone Created In React / Redux 
+
+Description: 
+[Project in Progress Oct.2020] Amazon clone created in React. 
+Primary purpose of this project is for me to practice skills & learn React/JS. 
+
+This app utilizes React Router, React js front end and Context API.
+
+
+## PreRequisites:
+- Dependencies are listed in package.json
+- Download the project
+- Run npm install in terminal at project level.This will install dependencies. 
+- After installing dependencies, run npm run start in terminal. 
+- Visit http://localhost:3000 
+
+## Contact: 
+naanepmaryg@gmail.com
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -41,28 +61,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
