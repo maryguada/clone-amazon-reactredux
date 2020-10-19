@@ -8,7 +8,7 @@ function Home() {
         <div className="home">
             <img
                 className="home-img"
-                src={HomeImg}
+                src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonMusic/2020/ACQ/Gateway/HolidayNonPromo/US-EN_100120_HOLNonPromo_ACQ_GW_Hero_D_1500x600_CV4._CB403243042_.jpg"
                 alt=""
             />
             {/* Product */}
