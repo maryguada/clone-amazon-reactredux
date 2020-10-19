@@ -1,10 +1,10 @@
 ## Amazon Clone Created In React / Redux 
 
 Description: 
-[Project in Progress Oct.2020] Amazon clone created in React. 
-Primary purpose of this project is for me to practice skills & learn React/JS. 
+Amazon clone created in React. 
+Primary purpose of this project is for me to practice skills in React/JS. 
 
-This app utilizes React Router, React js front end and Context API.
+This app utilizes React Router, React.js frontend, Firebase and Context API.
 
 
 ## PreRequisites:
